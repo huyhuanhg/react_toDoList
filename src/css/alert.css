@@ -1,0 +1,32 @@
+.alert-delete {
+    width: 50%;
+
+    margin: 0 auto;
+    padding: 30px 50px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 0 30px 20px rgba(0, 0, 0, .2);
+
+    background-color: white;
+}
+.alert-delete h2{
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+}
+.alert-content{
+    margin-top: 25px;
+}
+.alert-content p{
+    font-size: 20px;
+}
+.alert-content span{
+    font-weight: bold;
+}
+.alert-control{
+    text-align: center;
+}
+.btn-custom{
+    padding: 0 50px;
+}

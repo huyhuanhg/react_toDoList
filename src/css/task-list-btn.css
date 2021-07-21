@@ -1,0 +1,13 @@
+.doing{
+    color: red !important;
+    border-color: red !important;
+}
+.delete{
+    background-color: red;
+    border-color: red;
+}
+.update{
+    background-color: yellow;
+    border-color: yellow;
+    color: green;
+}

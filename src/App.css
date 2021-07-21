@@ -1,0 +1,15 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 35px 65px;
+  height: 56px;
+  background-color: #91d5ff;
+}
+.main-container{
+  min-height: calc(100vh - 70px);
+
+  padding: 50px 100px;
+
+  background-color: #e8e8e8;
+}
