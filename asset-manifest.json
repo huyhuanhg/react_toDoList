@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git@github.com:huyhuanhg/react_toDoList.git/static/css/main.db704e46.chunk.css",
+    "main.js": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/main.78f8039e.chunk.js",
+    "main.js.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/main.78f8039e.chunk.js.map",
+    "runtime-main.js": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/runtime-main.9e639da7.js",
+    "runtime-main.js.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/runtime-main.9e639da7.js.map",
+    "static/css/2.09765660.chunk.css": "/git@github.com:huyhuanhg/react_toDoList.git/static/css/2.09765660.chunk.css",
+    "static/js/2.82dd4a1b.chunk.js": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/2.82dd4a1b.chunk.js",
+    "static/js/2.82dd4a1b.chunk.js.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/2.82dd4a1b.chunk.js.map",
+    "static/js/3.d6cc6537.chunk.js": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/3.d6cc6537.chunk.js",
+    "static/js/3.d6cc6537.chunk.js.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/3.d6cc6537.chunk.js.map",
+    "index.html": "/git@github.com:huyhuanhg/react_toDoList.git/index.html",
+    "static/css/2.09765660.chunk.css.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/css/2.09765660.chunk.css.map",
+    "static/css/main.db704e46.chunk.css.map": "/git@github.com:huyhuanhg/react_toDoList.git/static/css/main.db704e46.chunk.css.map",
+    "static/js/2.82dd4a1b.chunk.js.LICENSE.txt": "/git@github.com:huyhuanhg/react_toDoList.git/static/js/2.82dd4a1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e639da7.js",
+    "static/css/2.09765660.chunk.css",
+    "static/js/2.82dd4a1b.chunk.js",
+    "static/css/main.db704e46.chunk.css",
+    "static/js/main.78f8039e.chunk.js"
+  ]
+}
