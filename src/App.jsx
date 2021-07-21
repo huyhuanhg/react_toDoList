@@ -37,18 +37,20 @@ function App() {
         let k = 0;
         for (let i = 0; i < tasks.length; i++) {
             if (tasks[i].key - k > 1) {
-                return k + 1;
+                return k++;
             } else {
                 k++;
             }
         }
         return tasks.length > 0 ? tasks[tasks.length - 1].key + 1 : 1;
     };
+
     const getTask = (key) => {
         return taskList.find((task) => {
             return task.key === key;
         })
     }
+
     const createTask = (newTask) => {
         let tasks = [
             ...taskList,
@@ -59,7 +61,7 @@ function App() {
     }
 
     const updateTask = (task) => {
-        let newTask = taskList;
+        let newTask = [...taskList];
         newTask.splice(task.key - 1, 1, task);
         setTaskList(newTask);
         save(newTask);
