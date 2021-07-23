@@ -18,7 +18,7 @@ export const columns = [
         width: "27.5%",
     },
     {
-        title: 'Ngày bắt đầu',
+        title: 'Ngày bắt đầu Aaaa  ',
         dataIndex: 'startDate',
         key: 'startDate',
         align: "center",
